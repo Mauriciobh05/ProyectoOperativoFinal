@@ -1,0 +1,6 @@
+# solicitudes2.csv
+cat > s2.csv << 'EOF'
+Garcia,9,8
+Lopez,11,12
+Martinez,7,5
+EOF
